@@ -6,6 +6,6 @@ hello Git
 hello Git
 hello Git
 hello Git
-hello Git
+hello Git hotfix
 hello Git
 林平之修改文件
