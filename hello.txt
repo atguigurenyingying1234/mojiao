@@ -6,6 +6,7 @@ hello Git
 hello Git
 hello Git
 hello Git master
-hello Git
-hello Git
+hello Git [new content]
+hello Git [new content]
+hello Git hotfix
 林平之修改文件
